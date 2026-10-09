@@ -1,0 +1,7 @@
+{
+  "name": "Voice Agent Widget",
+  "description": "Voice Agent Widget for live voice conversation and CRM appointment booking",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
